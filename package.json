@@ -1,6 +1,6 @@
 {
     "name": "grunt-gitbook",
-    "version": "0.6.0",
+    "version": "0.7.1",
     "description": "Static GitBook site compiler",
     "repository": {
         "type": "git",
@@ -18,7 +18,7 @@
     ],
     "license": "Apache 2",
     "dependencies": {
-        "gitbook": "0.6.1"
+        "gitbook": "0.7.1"
     },
     "scripts": {
         "test": "grunt test"
